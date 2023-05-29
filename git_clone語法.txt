@@ -1,0 +1,8 @@
+personal access token: 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
+
+git link : https://github.com/u2002020021/LineApiTest.git
+
+clone link : https://u2002020021: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@github.com/u2002020021/LineApiTest.git
+
+
+
